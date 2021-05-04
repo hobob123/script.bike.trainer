@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.bike.trainer"
+       name="Bike Trainer Plugin"
+       version="1.0"
+       provider-name="Siddharth Agarwala">
+  <requires>
+    <import addon="script.module.requests" version="2.25.0" />
+  </requires>
+  <extension point="xbmc.python.script" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">A script that runs in the background or KODI to interact with a Bike</summary>
+    <description lang="en">Can turn on and power off your TV, and also tells you when you have 5 minutes, 1 minute and 5 seconds until shutdown</description>
+  </extension>
+</addon>
