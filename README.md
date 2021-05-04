@@ -17,9 +17,9 @@ Here is the hardware you need:
 
 
 Here are the instrctions for Raspbian:
-1) Sudo apt-get install kodi
-2) pip2 install cec (The script runs in python 2 so you have to use python 2)
-3) pip2 install easygui (The script runs in python 2 so you have to use python 2)
+1) Sudo apt-get install kodi (Enter this in the terminal)
+2) pip2 install cec (Enter this in the terminal) (The script runs in python 2 so you have to use python 2)
+3) pip2 install easygui (Enter this in the terminal) (The script runs in python 2 so you have to use python 2)
 4) Open Kodi
 7) Go to the addons tab
 8) Click install from zip file 
