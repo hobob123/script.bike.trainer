@@ -13,7 +13,7 @@ Here is the hardware you need:
 6) A keyboard and mouse
 7) An HDMI Cable
 8) A TV or Monitor that supports HDMI-CEC
-9) A bike trainer this is the on I used: https://www.amazon.com/BalanceFrom-Trainer-Bicycle-Exercise-Magnetic/dp/B0872255PS/ref=sr_1_7?dchild=1&keywords=bike+trainer&qid=1620101480&sr=8-7
+9) A bike trainer. This is the one I used: https://www.amazon.com/BalanceFrom-Trainer-Bicycle-Exercise-Magnetic/dp/B0872255PS/ref=sr_1_7?dchild=1&keywords=bike+trainer&qid=1620101480&sr=8-7
 10) A bike that will work with the trainer
 11) A 3D printer, or some way to get 3d Printed parts
 
