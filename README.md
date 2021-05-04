@@ -21,4 +21,13 @@ Here are the instrctions for Raspbian:
 8) Click install from zip file 
 9) If it prompts you about something involving unknown sources, click settings and enable unknown sources.
 10) After this, go back and click Install from zip file.
-11) 
+11) Navigate to the directory where the zip file is located and select that.
+12) The plugin should install under program addons.
+13) When you want to run it, click the script and it should start running
+
+
+Here are some plugins that allow you to acceess streaming services:
+**Disclaimer, I did not create these. Install and Use at your own risk!**
+
+Netflix: https://howtomediacenter.com/en/install-netflix-kodi-addon/
+Disney+: https://kodibeginner.com/install-disney-plus-kodi/
