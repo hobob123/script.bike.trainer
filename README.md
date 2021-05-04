@@ -30,4 +30,5 @@ Here are some plugins that allow you to acceess streaming services:
 **Disclaimer, I did not create these. Install and Use at your own risk!**
 
 Netflix: https://howtomediacenter.com/en/install-netflix-kodi-addon/
+
 Disney+: https://kodibeginner.com/install-disney-plus-kodi/
