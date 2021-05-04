@@ -2,6 +2,8 @@
 
 In order for this plugin to work, you need a few things.
 
+
+
 Here is the hardware you need:
 1) Raspberry pi - I used a 3B, but any modern model that can run Kodi will do
 2) An SD card to boot the OS - I am running Raspbian, however, you can chose whatever operating sytem you like
@@ -11,6 +13,8 @@ Here is the hardware you need:
 6) A keyboard and mouse
 7) An HDMI Cable
 8) A TV or Monitor that supports HDMI-CEC
+
+
 
 Here are the instrctions for Raspbian:
 1) Sudo apt-get install kodi
@@ -24,6 +28,7 @@ Here are the instrctions for Raspbian:
 11) Navigate to the directory where the zip file is located and select that.
 12) The plugin should install under program addons.
 13) When you want to run it, click the script and it should start running
+
 
 
 Here are some plugins that allow you to acceess streaming services:
