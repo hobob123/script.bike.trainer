@@ -24,7 +24,8 @@ Here are the instrctions for Raspbian:
 2) pip2 install cec (Enter this in the terminal) (The script runs in python 2 so you have to use python 2)
 3) pip2 install easygui (Enter this in the terminal) (The script runs in python 2 so you have to use python 2)
 4) pip2 install RPi.GPIO (Enter this in the terminal)
-5) Open Kodi
+5) Download the zip file that has been precompiled by me.
+6) Open Kodi
 7) Go to the addons tab
 8) Click install from zip file 
 9) If it prompts you about something involving unknown sources, click settings and enable unknown sources.
