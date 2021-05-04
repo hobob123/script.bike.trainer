@@ -7,12 +7,15 @@ In order for this plugin to work, you need a few things.
 Here is the hardware you need:
 1) Raspberry pi - I used a 3B, but any modern model that can run Kodi will do
 2) An SD card to boot the OS - I am running Raspbian, however, you can chose whatever operating sytem you like
-3) A reed switch and magent
+3) A reed switch and magnet
 4) Some wires
 5) A small breeadboard
 6) A keyboard and mouse
 7) An HDMI Cable
 8) A TV or Monitor that supports HDMI-CEC
+9) A bike trainer this is the on I used: https://www.amazon.com/BalanceFrom-Trainer-Bicycle-Exercise-Magnetic/dp/B0872255PS/ref=sr_1_7?dchild=1&keywords=bike+trainer&qid=1620101480&sr=8-7
+10) A bike that will work with the trainer
+11) A 3D printer, or some way to get 3d Printed parts
 
 
 
