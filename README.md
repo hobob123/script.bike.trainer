@@ -20,7 +20,7 @@ Here is the hardware you need:
 
 
 Here are the instrctions for Raspbian:
-1) Sudo apt-get install kodi (Enter this in the terminal)
+1) sudo apt-get install kodi (Enter this in the terminal)
 2) pip2 install cec (Enter this in the terminal) (The script runs in python 2 so you have to use python 2)
 3) pip2 install easygui (Enter this in the terminal) (The script runs in python 2 so you have to use python 2)
 4) pip2 install RPi.GPIO (Enter this in the terminal)
@@ -39,6 +39,9 @@ Here are the Hardware instructions:
 1) Plug one end of the reed swith to the BCM port 26 (Find more information about this convention here: https://pinout.xyz/)
 2) Plug the other end of the reed switch into ground
 3) Plug the hdmi cable directly into the monitor or TV and make sure to enable HDMI-CEC on the device if needed.
+4) Hot glue the sensor and magnet to their respective holders that you 3d printed
+5) Attach these to the bike and trainer respectively.
+6) Make sure that the sensor works and you are good to go!
 
 
 Here are some plugins that allow you to acceess streaming services:
