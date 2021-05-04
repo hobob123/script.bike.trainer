@@ -20,7 +20,8 @@ Here are the instrctions for Raspbian:
 1) Sudo apt-get install kodi (Enter this in the terminal)
 2) pip2 install cec (Enter this in the terminal) (The script runs in python 2 so you have to use python 2)
 3) pip2 install easygui (Enter this in the terminal) (The script runs in python 2 so you have to use python 2)
-4) Open Kodi
+4) pip2 install RPi.GPIO (Enter this in the terminal)
+5) Open Kodi
 7) Go to the addons tab
 8) Click install from zip file 
 9) If it prompts you about something involving unknown sources, click settings and enable unknown sources.
@@ -30,10 +31,15 @@ Here are the instrctions for Raspbian:
 13) When you want to run it, click the script and it should start running
 
 
+Here are the Hardware instructions:
+1) Plug one end of the reed swith to the BCM port 26 (Find more information about this convention here: https://pinout.xyz/)
+2) Plug the other end of the reed switch into ground
+3) Plug the hdmi cable directly into the monitor or TV and make sure to enable HDMI-CEC on the device if needed.
+
 
 Here are some plugins that allow you to acceess streaming services:
 
-**Disclaimer, I did not create these. Install and Use at your own risk!**
+**Disclaimer, I did not create these. Install and use at your own risk!**
 
 Netflix: https://howtomediacenter.com/en/install-netflix-kodi-addon/
 
